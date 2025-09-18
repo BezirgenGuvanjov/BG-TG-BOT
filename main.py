@@ -7,6 +7,21 @@ import random
 import threading
 from datetime import datetime, timedelta
 import os
+from flask import Flask
+from threading import Thread
+
+app = Flask('/')
+
+@app.route('/')
+def home():
+    return "Бот работает..."
+
+def run():
+    app.run(host = '0.0.0.0', port = 8080)
+
+def keep_alive():
+    t = Thread(target = run)
+    t.start
 
 # =========== НАСТРОЙКИ ===========
 TOKEN = "7772224219:AAHf0FnFFIz4aVZQI8tqp7V9U09zjJ029g4"
@@ -20,6 +35,8 @@ LEADERBOARD_HOUR_MIN = "21:30" # формат "HH:MM" для leaderboard
 # =================================
 
 bot = telebot.TeleBot(TOKEN)
+
+keep_alive()
 
 # Загружаем слова
 if not os.path.exists(WORDS_FILE):
@@ -251,3 +268,4 @@ if __name__ == "__main__":
         except Exception as e:
             print("Ошибка в schedule:", e)
         time.sleep(1)
+
