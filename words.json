@@ -1,0 +1,512 @@
+[
+  {
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "Привет"
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xièxie",
+    "meaning": "Спасибо"
+  },
+  {
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "meaning": "До свидания"
+  },
+  {
+    "chinese": "中国",
+    "pinyin": "Zhōngguó",
+    "meaning": "Китай"
+  },
+  {
+    "chinese": "美国",
+    "pinyin": "Měiguó",
+    "meaning": "Америка"
+  },
+  {
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "meaning": "Друг"
+  },
+  {
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "Учиться"
+  },
+  {
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "meaning": "Школа"
+  },
+  {
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "Учитель"
+  },
+  {
+    "chinese": "学生",
+    "pinyin": "xuéshēng",
+    "meaning": "Ученик, студент"
+  },
+  {
+    "chinese": "汉语",
+    "pinyin": "Hànyǔ",
+    "meaning": "Китайский язык"
+  },
+  {
+    "chinese": "英语",
+    "pinyin": "Yīngyǔ",
+    "meaning": "Английский язык"
+  },
+  {
+    "chinese": "书",
+    "pinyin": "shū",
+    "meaning": "Книга"
+  },
+  {
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "meaning": "Вода"
+  },
+  {
+    "chinese": "茶",
+    "pinyin": "chá",
+    "meaning": "Чай"
+  },
+  {
+    "chinese": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "Кофе"
+  },
+  {
+    "chinese": "饭",
+    "pinyin": "fàn",
+    "meaning": "Еда, рис"
+  },
+  {
+    "chinese": "面条",
+    "pinyin": "miàntiáo",
+    "meaning": "Лапша"
+  },
+  {
+    "chinese": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "Яблоко"
+  },
+  {
+    "chinese": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "meaning": "Банан"
+  },
+  {
+    "chinese": "橙子",
+    "pinyin": "chéngzi",
+    "meaning": "Апельсин"
+  },
+  {
+    "chinese": "西瓜",
+    "pinyin": "xīguā",
+    "meaning": "Арбуз"
+  },
+  {
+    "chinese": "手机",
+    "pinyin": "shǒujī",
+    "meaning": "Телефон"
+  },
+  {
+    "chinese": "电脑",
+    "pinyin": "diànnǎo",
+    "meaning": "Компьютер"
+  },
+  {
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": "Работа"
+  },
+  {
+    "chinese": "公司",
+    "pinyin": "gōngsī",
+    "meaning": "Компания"
+  },
+  {
+    "chinese": "家庭",
+    "pinyin": "jiātíng",
+    "meaning": "Семья"
+  },
+  {
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "meaning": "Папа"
+  },
+  {
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "meaning": "Мама"
+  },
+  {
+    "chinese": "哥哥",
+    "pinyin": "gēge",
+    "meaning": "Старший брат"
+  },
+  {
+    "chinese": "弟弟",
+    "pinyin": "dìdi",
+    "meaning": "Младший брат"
+  },
+  {
+    "chinese": "姐姐",
+    "pinyin": "jiějie",
+    "meaning": "Старшая сестра"
+  },
+  {
+    "chinese": "妹妹",
+    "pinyin": "mèimei",
+    "meaning": "Младшая сестра"
+  },
+  {
+    "chinese": "孩子",
+    "pinyin": "háizi",
+    "meaning": "Ребёнок"
+  },
+  {
+    "chinese": "男人",
+    "pinyin": "nánrén",
+    "meaning": "Мужчина"
+  },
+  {
+    "chinese": "女人",
+    "pinyin": "nǚrén",
+    "meaning": "Женщина"
+  },
+  {
+    "chinese": "爱",
+    "pinyin": "ài",
+    "meaning": "Любовь"
+  },
+  {
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "meaning": "Нравиться"
+  },
+  {
+    "chinese": "看",
+    "pinyin": "kàn",
+    "meaning": "Смотреть"
+  },
+  {
+    "chinese": "听",
+    "pinyin": "tīng",
+    "meaning": "Слушать"
+  },
+  {
+    "chinese": "说",
+    "pinyin": "shuō",
+    "meaning": "Говорить"
+  },
+  {
+    "chinese": "读",
+    "pinyin": "dú",
+    "meaning": "Читать"
+  },
+  {
+    "chinese": "写",
+    "pinyin": "xiě",
+    "meaning": "Писать"
+  },
+  {
+    "chinese": "走",
+    "pinyin": "zǒu",
+    "meaning": "Идти"
+  },
+  {
+    "chinese": "跑",
+    "pinyin": "pǎo",
+    "meaning": "Бежать"
+  },
+  {
+    "chinese": "来",
+    "pinyin": "lái",
+    "meaning": "Приходить"
+  },
+  {
+    "chinese": "去",
+    "pinyin": "qù",
+    "meaning": "Идти"
+  },
+  {
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "meaning": "Сидеть"
+  },
+  {
+    "chinese": "站",
+    "pinyin": "zhàn",
+    "meaning": "Стоять"
+  },
+  {
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "meaning": "Покупать"
+  },
+  {
+    "chinese": "卖",
+    "pinyin": "mài",
+    "meaning": "Продавать"
+  },
+  {
+    "chinese": "钱",
+    "pinyin": "qián",
+    "meaning": "Деньги"
+  },
+  {
+    "chinese": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "Погода"
+  },
+  {
+    "chinese": "太阳",
+    "pinyin": "tàiyáng",
+    "meaning": "Солнце"
+  },
+  {
+    "chinese": "月亮",
+    "pinyin": "yuèliang",
+    "meaning": "Луна"
+  },
+  {
+    "chinese": "星星",
+    "pinyin": "xīngxing",
+    "meaning": "Звезда"
+  },
+  {
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "meaning": "Сегодня"
+  },
+  {
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "meaning": "Завтра"
+  },
+  {
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "meaning": "Вчера"
+  },
+  {
+    "chinese": "早上",
+    "pinyin": "zǎoshang",
+    "meaning": "Утро"
+  },
+  {
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "Полдень"
+  },
+  {
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "meaning": "Вечер"
+  },
+  {
+    "chinese": "时间",
+    "pinyin": "shíjiān",
+    "meaning": "Время"
+  },
+  {
+    "chinese": "年",
+    "pinyin": "nián",
+    "meaning": "Год"
+  },
+  {
+    "chinese": "月",
+    "pinyin": "yuè",
+    "meaning": "Месяц"
+  },
+  {
+    "chinese": "日",
+    "pinyin": "rì",
+    "meaning": "День"
+  },
+  {
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "meaning": "Неделя"
+  },
+  {
+    "chinese": "一",
+    "pinyin": "yī",
+    "meaning": "Один"
+  },
+  {
+    "chinese": "二",
+    "pinyin": "èr",
+    "meaning": "Два"
+  },
+  {
+    "chinese": "三",
+    "pinyin": "sān",
+    "meaning": "Три"
+  },
+  {
+    "chinese": "四",
+    "pinyin": "sì",
+    "meaning": "Четыре"
+  },
+  {
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "meaning": "Пять"
+  },
+  {
+    "chinese": "六",
+    "pinyin": "liù",
+    "meaning": "Шесть"
+  },
+  {
+    "chinese": "七",
+    "pinyin": "qī",
+    "meaning": "Семь"
+  },
+  {
+    "chinese": "八",
+    "pinyin": "bā",
+    "meaning": "Восемь"
+  },
+  {
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "meaning": "Девять"
+  },
+  {
+    "chinese": "十",
+    "pinyin": "shí",
+    "meaning": "Десять"
+  },
+  {
+    "chinese": "百",
+    "pinyin": "bǎi",
+    "meaning": "Сто"
+  },
+  {
+    "chinese": "千",
+    "pinyin": "qiān",
+    "meaning": "Тысяча"
+  },
+  {
+    "chinese": "万",
+    "pinyin": "wàn",
+    "meaning": "Десять тысяч"
+  },
+  {
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "meaning": "Счастливый"
+  },
+  {
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "meaning": "Красивый"
+  },
+  {
+    "chinese": "大",
+    "pinyin": "dà",
+    "meaning": "Большой"
+  },
+  {
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "meaning": "Маленький"
+  },
+  {
+    "chinese": "多",
+    "pinyin": "duō",
+    "meaning": "Много"
+  },
+  {
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "meaning": "Мало"
+  },
+  {
+    "chinese": "热",
+    "pinyin": "rè",
+    "meaning": "Жаркий"
+  },
+  {
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "meaning": "Холодный"
+  },
+  {
+    "chinese": "快",
+    "pinyin": "kuài",
+    "meaning": "Быстрый"
+  },
+  {
+    "chinese": "慢",
+    "pinyin": "màn",
+    "meaning": "Медленный"
+  },
+  {
+    "chinese": "新",
+    "pinyin": "xīn",
+    "meaning": "Новый"
+  },
+  {
+    "chinese": "旧",
+    "pinyin": "jiù",
+    "meaning": "Старый"
+  },
+  {
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "meaning": "Хороший"
+  },
+  {
+    "chinese": "坏",
+    "pinyin": "huài",
+    "meaning": "Плохой"
+  },
+  {
+    "chinese": "对",
+    "pinyin": "duì",
+    "meaning": "Правильно"
+  },
+  {
+    "chinese": "错",
+    "pinyin": "cuò",
+    "meaning": "Неправильно"
+  },
+  {
+    "chinese": "左",
+    "pinyin": "zuǒ",
+    "meaning": "Лево"
+  },
+  {
+    "chinese": "右",
+    "pinyin": "yòu",
+    "meaning": "Право"
+  },
+  {
+    "chinese": "上",
+    "pinyin": "shàng",
+    "meaning": "Вверх"
+  },
+  {
+    "chinese": "下",
+    "pinyin": "xià",
+    "meaning": "Вниз"
+  },
+  {
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "meaning": "Внутри"
+  },
+  {
+    "chinese": "外",
+    "pinyin": "wài",
+    "meaning": "Снаружи"
+  }
+]
