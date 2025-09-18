@@ -21,7 +21,7 @@ LEADERBOARD_HOUR_MIN = "21:30"
 bot = telebot.TeleBot(TOKEN)
 
 # ------------------- Flask сервер -------------------
-app = Flask(name)
+app = Flask(__name__)
 
 @app.route("/")
 def home():
@@ -141,7 +141,7 @@ schedule.every().day.at(LEADERBOARD_HOUR_MIN).do(send_leaderboard)
 def start_polling():
     bot.infinity_polling(timeout=60)
 
-if name == "main":
+if __name__ == "main":
     print("Запуск бота и Flask...")
 
     # Запускаем Flask в отдельном потоке
@@ -154,3 +154,4 @@ if name == "main":
     while True:
         schedule.run_pending()
         time.sleep(1)
+
